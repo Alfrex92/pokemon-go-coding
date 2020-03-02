@@ -1,0 +1,15 @@
+{
+  "name": "pokemon-go-coding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
